@@ -85,4 +85,10 @@ The models developed provide a framework for predicting the response times of em
 We thank Prof. Neha T for her guidance and support. We also thank Prof. Shankar S and Prof. P. G. Sunitha Hiremath for their assistance. Special thanks to Dr. Meena S M, Head of the Department, for providing the necessary academic environment.
 
 ## References
-Include any references or external sources used in the project.
+- https://paris-fire-brigade.github.io/data-challenge/challenge.html
+- https://challengedata.ens.fr/participants/challenges/21/
+- https://medium.com/crim/predicting-the-response-times-of-firefighters-using-data-science-da79f6965f93
+- https://eng.uber.com/engineering-an-efficient-route/
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html
+- https://www.youtube.com/watch?v=9yl6-HEY7_s
+- http://www.datasciencemadesimple.com/convert-column-to-categorical-pandas-python-2/
